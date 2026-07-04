@@ -8,8 +8,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* **bitbucket:** update authentication method, use fetch ([7758990](https://github.com/getindiekit/indiekit/commit/775899093d73240f33a92b99495ab6fd1e9780d1))
-* **bitbucket:** update icon ([8845bd9](https://github.com/getindiekit/indiekit/commit/8845bd91d1595ff14892ff82871c82803262f277))
+* **store-bitbucket:** update authentication method, use fetch ([7758990](https://github.com/getindiekit/indiekit/commit/775899093d73240f33a92b99495ab6fd1e9780d1))
+* **store-bitbucket:** update icon ([8845bd9](https://github.com/getindiekit/indiekit/commit/8845bd91d1595ff14892ff82871c82803262f277))
 * **frontend:** improve markdown link handling ([4bbc622](https://github.com/getindiekit/indiekit/commit/4bbc622776328424e1a8616876c9c7fee5de1128))
 
 
