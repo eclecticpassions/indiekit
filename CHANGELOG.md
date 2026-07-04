@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-beta.28](https://github.com/getindiekit/indiekit/compare/v1.0.0-beta.27...v1.0.0-beta.28) (2026-07-04)
+
+
+### Features
+
+* **bitbucket:** update authentication method, use fetch ([7758990](https://github.com/getindiekit/indiekit/commit/775899093d73240f33a92b99495ab6fd1e9780d1))
+* **bitbucket:** update icon ([8845bd9](https://github.com/getindiekit/indiekit/commit/8845bd91d1595ff14892ff82871c82803262f277))
+* **frontend:** improve markdown link handling ([4bbc622](https://github.com/getindiekit/indiekit/commit/4bbc622776328424e1a8616876c9c7fee5de1128))
+
+
+
+
+
 # [1.0.0-beta.27](https://github.com/getindiekit/indiekit/compare/v1.0.0-beta.26...v1.0.0-beta.27) (2026-03-07)
 
 
